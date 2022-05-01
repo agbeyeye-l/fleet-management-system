@@ -2,7 +2,7 @@
 
 ## Description
 
-The goal of this project is to demonstrate my understand and experience  working with the following technologies
+The goal of this project is to develop expertise working with the following technologies
 
 - Docker
 - Kubernetes
