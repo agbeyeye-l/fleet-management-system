@@ -32,11 +32,11 @@ The goal of this project is to develop expertise working with the following tech
 - A queue service
 
 - A Mongo database
+
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Temiloluwa
+
 
 
 
