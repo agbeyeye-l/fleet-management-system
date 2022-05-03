@@ -29,4 +29,28 @@ This project named **fleet management system** is a java based project that allo
 - A Mongo database
 
 
+A Project to showcase DevOps professional activities
+# Fleet Management System
+
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine (minikue) for development and testing purposes.
+See deployment for notes on how to deploy the project on a live system.
+To get started clone the repository and start coding. Continuous Delivery is implemented using __Github Actions__ and __Netlify__ Wbhook
+
+### Prerequisites
+
+- VS Code or any other editor
+- Minikube
+- Docker
+
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
+
+
 
