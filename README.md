@@ -33,9 +33,6 @@ The goal of this project is to develop expertise working with the following tech
 
 - A Mongo database
 
-## Acknowledgments
-
-* Temiloluwa
 
 
 
